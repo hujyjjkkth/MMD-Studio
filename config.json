@@ -1,5 +1,5 @@
 {
   "schema": 1,
-  "payload": "{\"schema\":1,\"notice\":{\"id\":\"\",\"title\":\"\",\"body\":\"\",\"confirmText\":\"查看详情\",\"cancelText\":\"知道了\",\"url\":\"\",\"minVersionCode\":0,\"maxVersionCode\":0,\"startAt\":0,\"endAt\":0,\"once\":true,\"force\":false},\"release\":{\"versionCode\":162,\"versionName\":\"1.0.0\",\"url\":\"https://github.com/hujyjjkkth/MMD-Studio/releases/download/v1.0.0/MMDStudio-v1.0.0.apk\",\"size\":17886794,\"sha256\":\"9bc4f1f8e02a45f0fdf0629ba56ba8d64f9291800b70d10e2b8d68fb0bbb0fae\",\"changelog\":\"v1.0.0\\n· 中英双语界面\\n· 扩展功能按需解锁（连续点版本号 10 次）\\n· 构建加固与资源加密\",\"force\":false,\"minSupported\":0}}",
-  "sig": "MEQCICIpz4F/mia6i3NqQsvIje6hxIK2cnyf8YYMY/pZdN/7AiAcf7Ab24o0+A7fNZiuMMwloqThdN3pO4DfclufnWX8tQ=="
+  "payload": "{\"schema\":1,\"notice\":{\"id\":\"\",\"title\":\"\",\"body\":\"\",\"confirmText\":\"查看详情\",\"cancelText\":\"知道了\",\"url\":\"\",\"minVersionCode\":0,\"maxVersionCode\":0,\"startAt\":0,\"endAt\":0,\"once\":true,\"force\":false},\"release\":{\"versionCode\":163,\"versionName\":\"1.0.1\",\"url\":\"https://github.com/hujyjjkkth/MMD-Studio/releases/download/v1.0.1/MMDStudio-v1.0.1.apk\",\"size\":17884382,\"sha256\":\"152a53dfe3780c6402d021ffcde887aa5f01b21bfa6d3a9e92bd93bb893a56fe\",\"changelog\":\"v1.0.1\\n· 设置面板整合：原\\\"我的\\\"面板的全部功能（版本更新检查、中英语言切换、运行日志、崩溃日志、清空日志、扩展功能解锁）已全部并入设置，四组分类更清晰\\n· 修复关于页版本号显示 ? 的问题\\n· 移除已废弃的\\\"我的\\\"面板\",\"force\":false,\"minSupported\":0}}",
+  "sig": "MEUCIQCepLnmZzQTB9Ws0m2z38cAIVUykyvTvB0VVY+2q8LztAIgb2C20UIRuYYSQEhlhOO5zwsIGPMdCIPB2JGw54CVfR4="
 }
