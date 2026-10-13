@@ -1,0 +1,5 @@
+{
+  "schema": 1,
+  "payload": "{\"schema\":1,\"notice\":{\"id\":\"\",\"title\":\"\",\"body\":\"\",\"confirmText\":\"查看详情\",\"cancelText\":\"知道了\",\"url\":\"\",\"minVersionCode\":0,\"maxVersionCode\":0,\"startAt\":0,\"endAt\":0,\"once\":true,\"force\":false},\"release\":{\"versionCode\":161,\"versionName\":\"3.6.2\",\"url\":\"https://github.com/hujyjjkkth/MMD-Studio/releases/download/v3.6.2/MMDStudio-v3.6.2.apk\",\"size\":17881166,\"sha256\":\"d8711516964772c2e9e08b14df2cfd0c2648f33957a6a9e98f5e5dd61345c17f\",\"changelog\":\"v3.6.2\\n· 布料解算换成 XPBD，长裙不再穿透\\n· 皮肤透光新增 SSS 近似\\n· 修复部分机型加载 PMX 后闪退\",\"force\":false,\"minSupported\":0}}",
+  "sig": "MEYCIQDsGS0B5ZJfkrREjZP9iw6oFd42Dx6Tmmo+0WYbls5QugIhAMq6ncaasDpZuvhAWbB8NPRaRAfe/Go9IkJ2GK7LvI9n"
+}
